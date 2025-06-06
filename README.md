@@ -4,7 +4,7 @@ DriverPass was a small company with an existing business that wanted to develop 
 
 # What did you do particularly well?
 
-LucidChart, despite being relatively new, was rather fun to use, and I think I benefited greatly from practicing the creation of the many diagrams in the course.  I believe I had a strong grasp on requirements gathering, as shown by the Business Requirements document.
+LucidChart, despite being relatively new to me, was rather fun to use, and I think I benefited greatly from practicing the creation of the many diagrams in the course.  I believe I had a strong grasp on requirements gathering, as shown by the Business Requirements document.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
